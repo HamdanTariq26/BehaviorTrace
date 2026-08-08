@@ -1,0 +1,90 @@
+# ================================
+# Visual Studio
+# ================================
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ================================
+# Build directories
+# ================================
+
+[Bb]uild/
+[Bb]uilds/
+x64/
+x86/
+Debug/
+Release/
+out/
+
+# ================================
+# Compiled binaries
+# ================================
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ================================
+# Object / intermediate files
+# ================================
+
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+
+# ================================
+# Visual Studio / MSBuild
+# ================================
+
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.sdf
+
+# ================================
+# CMake
+# ================================
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+.ninja_deps
+.ninja_log
+build.ninja
+
+# ================================
+# Generated files
+# ================================
+
+GeneratedFiles/
+*.generated.h
+
+# ================================
+# OS files
+# ================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================================
+# Temporary files
+# ================================
+
+*.tmp
+*.temp
+*.bak
+*~
